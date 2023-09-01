@@ -1,0 +1,8 @@
+add this sheban into your main directory on the top #!/usr/bin/env node
+
+define bin file in your package.json like when user install your code which file to run 
+"bin":"index.js"
+
+open the terminal in your package directory which package you want to upload:
+run npm login
+the run npm publish --access public

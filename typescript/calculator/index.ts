@@ -1,3 +1,7 @@
+#!/usr/bin/env node
+
+
+
 import operations from "./operation.js";
 import inquirer from "inquirer";
 

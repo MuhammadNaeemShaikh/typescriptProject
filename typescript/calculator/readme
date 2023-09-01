@@ -1,0 +1,20 @@
+# Muhammad Naeem Shaikh Calculator
+
+## Description
+
+This is a simple calculator package created by Muhammad Naeem Shaikh. It provides basic arithmetic operations and can be used in your Node.js applications.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Scripts](#scripts)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+To install this calculator package, you can use npm. Open your terminal and run the following command:
+
+```bash
+npm install muhammadnaeemshaikhcalculator
